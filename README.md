@@ -1,5 +1,5 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent->
-## Aim :
+## Aim 
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
 ## Equipments Required :
